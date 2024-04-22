@@ -1,6 +1,6 @@
 # potatoes_reading_books
 <div align="center">
-<img width="583" alt="image" src="https://github.com/SeongHo-C/reading-books-for-programmers/assets/83394485/4f4c2ed7-1895-4622-87c9-a8fd9e2d430e">
+<img width="583" alt="image" src="https://i.pinimg.com/originals/60/4c/db/604cdbcd12e4d2effc6a0abdaf591f0c.jpg">
 </div>
 
 # 🥔책 읽는 감자들
