@@ -2,8 +2,10 @@
 <div align="center">
 <img width="583" alt="image" src="https://i.pinimg.com/originals/60/4c/db/604cdbcd12e4d2effc6a0abdaf591f0c.jpg">
 </div>
+
 저희는 그저… 책 읽는 감자들입니다…
 </br>
+
 ## 📍목적
 
 - CS 관련 도서를 학습하여 CS지식을 향상시킨다.
