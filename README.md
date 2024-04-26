@@ -1,10 +1,7 @@
-# potatoes_reading_books
+# 🥔책 읽는 감자들 ( potatoes_reading_books )
 <div align="center">
 <img width="583" alt="image" src="https://i.pinimg.com/originals/60/4c/db/604cdbcd12e4d2effc6a0abdaf591f0c.jpg">
 </div>
-
-# 🥔책 읽는 감자들
-
 저희는 그저… 책 읽는 감자들입니다…
 </br>
 ## 📍목적
