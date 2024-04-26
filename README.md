@@ -3,7 +3,9 @@
 <img width="583" alt="image" src="https://i.pinimg.com/originals/60/4c/db/604cdbcd12e4d2effc6a0abdaf591f0c.jpg">
 </div>
 
+<p align="center">
 저희는 그저… 책 읽는 감자들입니다…
+</p>
 </br>
 
 ## 📍목적
